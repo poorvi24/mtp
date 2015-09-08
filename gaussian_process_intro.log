@@ -1,0 +1,83 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.6.20)  8 SEP 2015 12:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**gaussian_process_intro.tex
+(./gaussian_process_intro.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/home/poorvi/TexLive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/home/poorvi/TexLive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/home/poorvi/TexLive/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+(/home/poorvi/TexLive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen103
+\ttl@minus=\dimen104
+\ttl@toksa=\toks14
+\titlewidth=\dimen105
+\titlewidthlast=\dimen106
+\titlewidthfirst=\dimen107
+)
+(./gaussian_process_intro.aux)
+\openout1 = `gaussian_process_intro.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+ [1
+
+{/home/poorvi/TexLive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./gau
+ssian_process_intro.aux) ) 
+Here is how much of TeX's memory you used:
+ 573 strings out of 493117
+ 7166 string characters out of 6136771
+ 63727 words of memory out of 5000000
+ 4109 multiletter control sequences out of 15000+600000
+ 5457 words of font info for 20 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,6n,28p,148b,199s stack positions out of 5000i,500n,10000p,200000b,80000s
+</home/poorvi/TexLive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb></home/poorvi/TexLive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb></home/poorvi/TexLive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr17.pfb>
+Output written on gaussian_process_intro.pdf (2 pages, 39201 bytes).
+PDF statistics:
+ 23 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
